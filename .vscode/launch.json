@@ -1,0 +1,148 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Graph",
+            "request": "launch",
+            "mainClass": "Graph",
+            "projectName": "myproject_1938a3aa"
+        },
+        {
+            "type": "java",
+            "name": "T12",
+            "request": "launch",
+            "mainClass": "T12",
+            "projectName": "myproject_1938a3aa"
+        },
+        {
+            "type": "java",
+            "name": "Tree",
+            "request": "launch",
+            "mainClass": "Tree",
+            "projectName": "myproject_1938a3aa"
+        },
+        {
+            "type": "java",
+            "name": "T9",
+            "request": "launch",
+            "mainClass": "T9",
+            "projectName": "myproject_1938a3aa"
+        },
+        {
+            "type": "java",
+            "name": "T11",
+            "request": "launch",
+            "mainClass": "T11",
+            "projectName": "myproject_1938a3aa"
+        },
+        {
+            "type": "java",
+            "name": "T10",
+            "request": "launch",
+            "mainClass": "T10",
+            "projectName": "myproject_1938a3aa"
+        },
+        {
+            "type": "java",
+            "name": "T8",
+            "request": "launch",
+            "mainClass": "T8",
+            "projectName": "myproject_1938a3aa"
+        },
+        {
+            "type": "java",
+            "name": "T7",
+            "request": "launch",
+            "mainClass": "T7",
+            "projectName": "myproject_1938a3aa"
+        },
+        {
+            "type": "java",
+            "name": "T6",
+            "request": "launch",
+            "mainClass": "T6",
+            "projectName": "myproject_1938a3aa"
+        },
+        {
+            "type": "java",
+            "name": "Node",
+            "request": "launch",
+            "mainClass": "Node",
+            "projectName": "myproject_1938a3aa"
+        },
+        {
+            "type": "java",
+            "name": "T5",
+            "request": "launch",
+            "mainClass": "T5",
+            "projectName": "myproject_1938a3aa"
+        },
+        {
+            "type": "java",
+            "name": "T4",
+            "request": "launch",
+            "mainClass": "T4",
+            "projectName": "myproject_1938a3aa"
+        },
+        {
+            "type": "java",
+            "name": "T3",
+            "request": "launch",
+            "mainClass": "T3",
+            "projectName": "myproject_1938a3aa"
+        },
+        {
+            "type": "java",
+            "name": "T2",
+            "request": "launch",
+            "mainClass": "T2",
+            "projectName": "myproject_1938a3aa"
+        },
+        {
+            "type": "java",
+            "name": "T1",
+            "request": "launch",
+            "mainClass": "T1",
+            "projectName": "myproject_1938a3aa"
+        },
+        {
+            "type": "java",
+            "name": "toh",
+            "request": "launch",
+            "mainClass": "toh",
+            "projectName": "myproject_1938a3aa"
+        },
+        {
+            "type": "java",
+            "name": "Toggle",
+            "request": "launch",
+            "mainClass": "Toggle",
+            "projectName": "myproject_1938a3aa"
+        },
+        {
+            "type": "java",
+            "name": "sjf",
+            "request": "launch",
+            "mainClass": "sjf",
+            "projectName": "myproject_1938a3aa"
+        },
+        {
+            "type": "java",
+            "name": "sanskar4",
+            "request": "launch",
+            "mainClass": "sanskar4",
+            "projectName": "myproject_1938a3aa"
+        },
+        {
+            "type": "java",
+            "name": "sanskar3",
+            "request": "launch",
+            "mainClass": "sanskar3",
+            "projectName": "myproject_1938a3aa"
+        }
+    ]
+}
