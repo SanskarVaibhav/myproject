@@ -3,7 +3,7 @@ import java.util.*;
 public class T1 {
    
     public static void main(String[] args) {
-        Scanner sc =new Scanner(System.in);
+        try (Scanner sc = new Scanner(System.in)) {
         System.out.print ("two numbers is : ");
         int a=sc.nextInt();
         int b=sc.nextInt();
@@ -22,8 +22,10 @@ public class T1 {
          a=a-b;
 
          System.out.print("After Swapping two numbers without using third variable -> ");
-        System.out.println("a -> "+a+" , "+"b -> "+b);
-
-    }
+        System.out.println("a -> " + a + " , " + "b -> " + b);
+    } // End of main method
+} // End of class T1
 
 }
+
+ // End of class T1

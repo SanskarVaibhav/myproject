@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Graph",
+            "request": "launch",
+            "mainClass": "Graph",
+            "projectName": "DSA_44b5bb0f"
+        },
+        {
+            "type": "java",
+            "name": "ChatBot",
+            "request": "launch",
+            "mainClass": "ChatBot",
+            "projectName": "DSA_44b5bb0f"
+        },
+        {
+            "type": "java",
+            "name": "T6",
+            "request": "launch",
+            "mainClass": "T6",
+            "projectName": "DSA_44b5bb0f"
+        },
+        {
+            "type": "java",
+            "name": "minelementinrotatedarray",
+            "request": "launch",
+            "mainClass": "minelementinrotatedarray",
+            "projectName": "DSA_44b5bb0f"
+        },
+        {
+            "type": "java",
             "name": "pivotelement",
             "request": "launch",
             "mainClass": "pivotelement",

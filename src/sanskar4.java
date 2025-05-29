@@ -6,7 +6,6 @@ public class sanskar4 {
     private static final double PI = Math.acos(-1.0);
 
     public static void main(String[] args) {
-        @SuppressWarnings("resource")
         Scanner scanner =new Scanner(System.in);
         int n=scanner.nextInt();
         double[] A =new double[n];

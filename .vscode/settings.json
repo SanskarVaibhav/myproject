@@ -48,5 +48,10 @@
         "c:\\protobuf-java-3.25.3.jar"
     ],
     "java.debug.settings.onBuildFailureProceed": true,
-    "java.compile.nullAnalysis.mode": "automatic"
+    "java.compile.nullAnalysis.mode": "automatic",
+    "cSpell.words": [
+        "imshow",
+        "minelementinrotatedarray",
+        "sanskar"
+    ]
 }

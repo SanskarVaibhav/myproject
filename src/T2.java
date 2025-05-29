@@ -13,8 +13,8 @@ public static void main(String[] args)
     arr[i]=sc.nextInt();
   } 
   //minimum and maximum
-  int max=arr[0]; //initilize arr[0] as max in the start
-  int min=arr[0]; //initilize arr[0] as min in the start
+  int max=arr[0]; //initialize arr[0] as max in the start
+int min=arr[0]; //initialize arr[0] as min in the start
   for (int i=0;i<n;i++)
   {
     //condition to find  maximum in an array
