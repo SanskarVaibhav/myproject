@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "pivotelement",
+            "request": "launch",
+            "mainClass": "pivotelement",
+            "projectName": "myproject_1938a3aa"
+        },
+        {
+            "type": "java",
             "name": "Graph",
             "request": "launch",
             "mainClass": "Graph",
